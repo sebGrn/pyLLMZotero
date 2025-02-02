@@ -1,0 +1,5 @@
+pyzotero
+pandas
+langchain==0.3.3
+langchain-core==0.3.10
+langchain-ollama==0.2.0
