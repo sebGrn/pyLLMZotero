@@ -11,10 +11,10 @@ This script is designed to  **retrieve research papers from Zotero, extract keyw
 
 ## **🚀 Why This Code is Useful?**
 
-✅ **Automates Zotero data extraction** → No manual export needed.
-✅ **Uses AI (LLM) to generate keywords** → Helps in better search & organization.
-✅ **Stores the data in Neo4j** → Enables **graph-based** academic research analysis.
-✅ **Reusable & scalable** → Works for large datasets, and the CSV export allows easy debugging.
+- ✅ **Automates Zotero data extraction** → No manual export needed.
+- ✅ **Uses AI (LLM) to generate keywords** → Helps in better search & organization.
+- ✅ **Stores the data in Neo4j** → Enables **graph-based** academic research analysis.
+- ✅ **Reusable & scalable** → Works for large datasets, and the CSV export allows easy debugging.
 
 ## How to run
 
