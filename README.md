@@ -16,7 +16,7 @@ This script is designed to  **retrieve research papers from Zotero, extract keyw
 - ✅ **Stores the data in Neo4j** → Enables **graph-based** academic research analysis.
 - ✅ **Reusable & scalable** → Works for large datasets, and the CSV export allows easy debugging.
 
-## **🚀 How to run? **
+## **🔥 How to run? **
 
 * `pip install -r requirements.txt`
 * This code is based on [Pyzotero: a Python client for the Zotero API](https://github.com/urschrei/pyzotero?tab=readme-ov-file) and [LangChain](https://www.langchain.com/)
